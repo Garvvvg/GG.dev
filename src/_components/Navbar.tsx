@@ -69,7 +69,7 @@ const Navbar: React.FC = () => {
             <a href="#home" className="flex items-center space-x-2">
               <Code className="h-8 w-8 text-primary-500" />
               <span className="text-xl font-bold gradient-text">
-                Ujjwal Baranwal
+                Garv Gupta
               </span>
             </a>
           </div>
