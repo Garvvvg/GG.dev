@@ -121,14 +121,6 @@ modern-portfolio-site/
 └── vite.config.ts
 ```
 
-## 📸 Screenshots
-
-
-<img width="1915" height="982" alt="image" src="https://github.com/user-attachments/assets/463aa177-dcb9-4c03-93f3-1e5b84316531" />
-<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/f3614e9d-573e-409a-b38c-a61a5ce04327" />
-<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/c4a623d2-fdc1-40e8-b805-73c1ebd18a04" />
-<img width="1916" height="975" alt="image" src="https://github.com/user-attachments/assets/ac3fc4c3-efb4-4faf-bd95-b96b7bc4b8b9" />
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -145,7 +137,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to contact me at [ujjwalbaranwal221715@gmail.com](mailto:ujjwalbaranwal221715@gmail.com).
+If you have any questions or suggestions, feel free to contact me at [garvg2005@gmail.com](mailto:garvg2005@gmail.com).
 
 ## 💖 Thanks
 

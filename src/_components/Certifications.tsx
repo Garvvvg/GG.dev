@@ -71,7 +71,7 @@ const CertificationCard: React.FC<Certification> = ({
   );
 };
 
-const Certifications: React.FC = () => {
+/*const Certifications: React.FC = () => {
   const certifications: Certification[] = [
     {
       name: "The Ultimate React Course 2024: React, Next.js, Redux & More",

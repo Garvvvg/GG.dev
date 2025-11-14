@@ -65,15 +65,15 @@ const Education: React.FC = () => {
       description:
         "Coursework in Data Structures, Operating Systems, OOP, and Web Development. Focused on real-world project building and applied AI concepts.",
       achievements: [
-        "Current CPI: 8.53 (till 5th semester)",
-        "Global Rank 174 in CodeChef Starters 131",
+        "Current CPI: 7.41 (till 6th semester)",
+        /*"Global Rank 174 in CodeChef Starters 131",
         "Global Rank 882 in LeetCode Biweekly Contest 129",
         "Rank 2 in Tech-Expo (Robotics Club, MNNIT)",
         "Rank 5 in Hack-Quest (Avishkar Event, MNNIT)",
-        "Built college-level projects like Wild Oasis and Lite Lo",
+        "Built college-level projects like Wild Oasis and Lite Lo",*/
       ],
     },
-    {
+    /*{
       degree: "Intermediate Education",
       institution: "Central Public Academy, Belthara Road, Ballia",
       years: "2019 - 2021",
@@ -88,7 +88,7 @@ const Education: React.FC = () => {
       description:
         "Completed secondary education under the CBSE board with a strong academic foundation in science and mathematics.",
       achievements: ["Scored 96% overall"],
-    },
+    },*/
   ];
 
   return (

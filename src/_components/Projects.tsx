@@ -118,7 +118,7 @@ const ProjectCard: React.FC<Project> = ({
   );
 };
 
-const Projects: React.FC = () => {
+/*const Projects: React.FC = () => {
   const [filter, setFilter] = useState<string>("All");
 
   const projects: Project[] = [
@@ -245,7 +245,7 @@ const Projects: React.FC = () => {
       <FadeInView delay={0.4}>
         <div className="text-center mt-12">
           <a
-            href="https://github.com/UjjwalBaranwal"
+            href="https://github.com/Garvvvg"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary inline-flex items-center"

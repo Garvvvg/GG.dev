@@ -44,18 +44,18 @@ const Contact: React.FC = () => {
   const socialLinks = [
     {
       icon: <Github size={20} />,
-      href: "https://github.com/UjjwalBaranwal",
+      href: "https://github.com/Garvvvg",
       name: "GitHub",
     },
     // { icon: <Twitter size={20} />, href: 'https://twitter.com', name: 'Twitter' },
     {
       icon: <Linkedin size={20} />,
-      href: "https://www.linkedin.com/in/ujjwal-baranwal-6a1702263/",
+      href: "https://www.linkedin.com/in/garv-gupta-204b9529a/",
       name: "LinkedIn",
     },
     {
       icon: <Instagram size={20} />,
-      href: "https://www.instagram.com/ujjwalcreater9013/",
+      href: "https://www.instagram.com/garvv_g_/",
       name: "Instagram",
     },
   ];
@@ -153,7 +153,7 @@ const Contact: React.FC = () => {
                   href="mailto:ujjwalbaranwal3294@gmail.com"
                   className="hover:text-primary-400 transition-colors"
                 >
-                  ujjwalbaranwal3294@gmail.com
+                  garvg2005@gmail.com
                 </a>
               }
             />
